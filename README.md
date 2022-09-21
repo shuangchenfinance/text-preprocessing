@@ -1,2 +1,4 @@
 # text-preprocessing
-This is a function I usually use to preprocess texts before using them as data.
+This is a function I use to preprocess texts before using them as data.
+
+# Steps:
